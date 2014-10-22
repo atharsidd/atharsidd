@@ -3,8 +3,8 @@ layout: post
 title: My blog's up and running!
 ---
 
-I'm having fun :D _config.yml file in the root of your repository (shown below :point_down:).
+I'm having fun :D _:point_up:).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Join me here :p [M Athar Siddiqui](https://www.facebook.com/athar.zahid) on Facebook.
